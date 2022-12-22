@@ -1,6 +1,6 @@
 
 **problem statement :-**
-one folder contain 4 subfolders,that subfolders contain images/files.This code is used to extract all the files in subfolders in one folder, then process images and store as same format.
+one folder contain 4 subfolders,that subfolders contain images/files. my task is  to extract all the files in subfolders in one folder, then process images and store as same format.
 
 **Libraries:**
 1.Glob
